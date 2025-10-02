@@ -1,1 +1,1 @@
-I'm Vanis, I build stuff on AWS with Docker, and sometimes tinker with AI too.
+I build stuff on AWS, thinks about AI cognitive architecture, and sometimes tinker with stuff.
